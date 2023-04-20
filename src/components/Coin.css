@@ -1,0 +1,25 @@
+.coin {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: rgba(80, 80, 80, 0) 0px 3px 8px;
+    background-color: cadetblue;
+
+}
+
+.coin img {
+    height: 80px;
+    cursor: pointer;
+}
+
+.coinChart {
+    width: 200px;
+    height: 100px;
+}
